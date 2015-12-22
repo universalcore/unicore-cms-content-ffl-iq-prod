@@ -1,17 +1,17 @@
 {
   "subtitle": "", 
-  "description": "", 
+  "description": "\u0686\u06d5\u0646\u062f \u0641\u0627\u06a9\u062a\u06ce\u06a9 \u06a9\u06d5 \u067e\u06ce\u0648\u06cc\u0633\u062a\u06d5 \u0628\u06cc\u0632\u0627\u0646\u06cc\u062a \u0644\u06d5\u0628\u0627\u0631\u06d5\u06cc \u0647\u06d5\u0648\u06a9\u0631\u062f\u0646\u06cc \u0633\u06cc\u06cc\u06d5\u06a9\u0627\u0646\u06d5\u0648\u06d5", 
   "language": "kur_IQ", 
   "title": "\u0647\u06d5\u0648\u06a9\u0631\u062f\u0646\u06cc \u0633\u06cc\u06cc\u06d5\u06a9\u0627\u0646 ", 
   "primary_category": "685f20a8a1c9411e93c001db6885a649", 
   "created_at": "2015-11-23T06:30:44+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-22T12:24:54.838482+00:00", 
+  "modified_at": "2015-12-22T12:29:01.778936+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "language": "python", 
+    "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
     "package": "elastic-git"
   }, 
   "linked_pages": [], 
