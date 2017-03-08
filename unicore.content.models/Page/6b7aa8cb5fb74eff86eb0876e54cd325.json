@@ -6,12 +6,12 @@
   "primary_category": "8b90e4cbfad64c08a3408ede53b67acd", 
   "created_at": "2015-11-23T06:36:09+00:00", 
   "featured_in_category": true, 
-  "modified_at": "2015-12-23T11:33:45.288510+00:00", 
+  "modified_at": "2017-03-08T09:22:29.202324+00:00", 
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
   "linked_pages": [
@@ -24,7 +24,7 @@
   "author_tags": [], 
   "image": "7ea78846abe546fca8dd900c758a897f", 
   "published": null, 
-  "position": 8, 
+  "position": 4, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "mndboon-o-khstn-khzn", 
   "uuid": "6b7aa8cb5fb74eff86eb0876e54cd325"
